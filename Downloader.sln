@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Downloader", "Downloader\Downloader.vcproj", "{50C331F0-810E-46B3-B5A1-8E5D1B53F7E2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libgui", "libgui\libgui.vcproj", "{584C7AE7-E3A8-40F5-8C51-908A7CF2B810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50C331F0-810E-46B3-B5A1-8E5D1B53F7E2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{50C331F0-810E-46B3-B5A1-8E5D1B53F7E2}.Debug|Win32.Build.0 = Debug|Win32
+		{50C331F0-810E-46B3-B5A1-8E5D1B53F7E2}.Release|Win32.ActiveCfg = Release|Win32
+		{50C331F0-810E-46B3-B5A1-8E5D1B53F7E2}.Release|Win32.Build.0 = Release|Win32
+		{584C7AE7-E3A8-40F5-8C51-908A7CF2B810}.Debug|Win32.ActiveCfg = Debug|Win32
+		{584C7AE7-E3A8-40F5-8C51-908A7CF2B810}.Debug|Win32.Build.0 = Debug|Win32
+		{584C7AE7-E3A8-40F5-8C51-908A7CF2B810}.Release|Win32.ActiveCfg = Release|Win32
+		{584C7AE7-E3A8-40F5-8C51-908A7CF2B810}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
