@@ -12,4 +12,4 @@ It is very weird, when you need to download and install lots of frameworks megab
 I am beginning programmer and I publish this code for inspection only. I am grateful to my colleagues for experienced my code inspections and reviews of the project.
 
 ## Building ##
-Just open Downloader.sln file in VisualStudio. Then, run VisualStudio command prompt, cd to directory Downloader in project's folder, and run "lib /def:sqlite3.def". After that, project will be built normally.
+How to build this project? A piece of cake! Just open Downloader.sln in VisualStudio and run "Build solution".
