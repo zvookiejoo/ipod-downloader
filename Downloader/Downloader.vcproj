@@ -116,11 +116,7 @@
 				Name="VCCLCompilerTool"
 				Optimization="2"
 				EnableIntrinsicFunctions="true"
-<<<<<<< HEAD
 				AdditionalIncludeDirectories="$(SolutionDir)\libgui"
-=======
-				AdditionalIncludeDirectories="..\libgui"
->>>>>>> fb14f22e686a576568b65211c5bd3b78bf156cc5
 				PreprocessorDefinitions="WIN32;NDEBUG;_WINDOWS"
 				RuntimeLibrary="2"
 				EnableFunctionLevelLinking="true"
